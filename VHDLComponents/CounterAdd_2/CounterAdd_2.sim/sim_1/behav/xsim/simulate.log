@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Error: Step 3.1 - Increase failed
+Time: 71 ns  Iteration: 0  Process: /CounterAdd_TestBench/test_routine  File: C:/Users/marco/VivadoProjects/CounterAdd_2/CounterAdd_2.srcs/sim_1/new/CounterAdd_TestBench.vhd
+Error: Step 3.2 - Increase failed
+Time: 111 ns  Iteration: 0  Process: /CounterAdd_TestBench/test_routine  File: C:/Users/marco/VivadoProjects/CounterAdd_2/CounterAdd_2.srcs/sim_1/new/CounterAdd_TestBench.vhd
+Error: Step 3.3 - Increase failed
+Time: 191 ns  Iteration: 0  Process: /CounterAdd_TestBench/test_routine  File: C:/Users/marco/VivadoProjects/CounterAdd_2/CounterAdd_2.srcs/sim_1/new/CounterAdd_TestBench.vhd

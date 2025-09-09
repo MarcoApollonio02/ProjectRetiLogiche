@@ -1,0 +1,13 @@
+-- Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+-- Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+-- --------------------------------------------------------------------------------
+-- Tool Version: Vivado v.2023.2 (win64) Build 4029153 Fri Oct 13 20:14:34 MDT 2023
+-- Date        : Fri Feb 16 16:49:57 2024
+-- Host        : giacomo running 64-bit major release  (build 9200)
+-- Command     : write_vhdl -mode funcsim -nolib -force -file {C:/Users/giaco/projects/Reti
+--               Logiche/credibility/credibility.sim/sim_1/synth/func/xsim/test_bench_func_synth.vhd}
+-- Design      : test_bench
+-- Purpose     : This VHDL netlist is a functional simulation representation of the design and should not be modified or
+--               synthesized. This netlist cannot be used for SDF annotated simulation.
+-- Device      : xc7a200tfbv484-1
+-- --------------------------------------------------------------------------------

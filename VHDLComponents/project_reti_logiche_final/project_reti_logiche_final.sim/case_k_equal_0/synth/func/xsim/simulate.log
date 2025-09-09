@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: Simulation Ended! TEST PASSATO (EXAMPLE)
+Time: 200100 ps  Iteration: 2  Process: /project_tb/test_routine  File: C:/Users/marco/VivadoProjects/project_reti_logiche_final/project_reti_logiche_final.srcs/case_k_equal_0/new/project_reti_logiche_tb.vhd
+$finish called at time : 200100 ps : File "C:/Users/marco/VivadoProjects/project_reti_logiche_final/project_reti_logiche_final.srcs/case_k_equal_0/new/project_reti_logiche_tb.vhd" Line 191

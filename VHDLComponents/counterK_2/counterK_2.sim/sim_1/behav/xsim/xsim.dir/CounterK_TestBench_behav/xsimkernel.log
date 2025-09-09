@@ -1,0 +1,4 @@
+Running: xsim.dir/CounterK_TestBench_behav/xsimk.exe -simmode gui -wdb CounterK_TestBench_behav.wdb -simrunnum 0 -socket 57353
+Design successfully loaded
+Design Loading Memory Usage: 7936 KB (Peak: 7936 KB)
+Design Loading CPU Usage: 0 ms

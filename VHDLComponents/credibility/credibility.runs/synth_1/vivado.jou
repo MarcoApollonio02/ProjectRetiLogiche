@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2 (64-bit)
+# SW Build 4029153 on Fri Oct 13 20:14:34 MDT 2023
+# IP Build 4028589 on Sat Oct 14 00:45:43 MDT 2023
+# SharedData Build 4025554 on Tue Oct 10 17:18:54 MDT 2023
+# Start of session at: Fri Feb 16 16:46:26 2024
+# Process ID: 8216
+# Current directory: C:/Users/giaco/projects/Reti Logiche/credibility/credibility.runs/synth_1
+# Command line: vivado.exe -log test_bench.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source test_bench.tcl
+# Log file: C:/Users/giaco/projects/Reti Logiche/credibility/credibility.runs/synth_1/test_bench.vds
+# Journal file: C:/Users/giaco/projects/Reti Logiche/credibility/credibility.runs/synth_1\vivado.jou
+# Running On: giacomo, OS: Windows, CPU Frequency: 3793 MHz, CPU Physical cores: 8, Host memory: 17104 MB
+#-----------------------------------------------------------
+source test_bench.tcl -notrace

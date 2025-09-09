@@ -1,0 +1,12 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/marco/VivadoProjects/project_reti_logiche_final/project_reti_logiche_final.sim/Credibility_0/synth/timing/xsim/project_tb_time_synth.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CounterAdd
+INFO: [VRFC 10-311] analyzing module CounterK
+INFO: [VRFC 10-311] analyzing module CredibilityT
+INFO: [VRFC 10-311] analyzing module FlipFlopT
+INFO: [VRFC 10-311] analyzing module FlipFlopT_0
+INFO: [VRFC 10-311] analyzing module FlipFlopT_1
+INFO: [VRFC 10-311] analyzing module FlipFlopT_2
+INFO: [VRFC 10-311] analyzing module FlipFlopT_3
+INFO: [VRFC 10-311] analyzing module LVR
+INFO: [VRFC 10-311] analyzing module project_reti_logiche
+INFO: [VRFC 10-311] analyzing module glbl

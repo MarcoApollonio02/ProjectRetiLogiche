@@ -1,0 +1,7 @@
+# VSCode settings
+.vscode/
+*.code-workspace
+
+# VSCode extension folders
+.vscode-test/
+.history/

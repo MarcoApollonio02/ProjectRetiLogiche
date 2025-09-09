@@ -1,0 +1,4 @@
+Time resolution is 1 ps
+Failure: TEST FALLITO @ OFFSET=1 expected= 31 actual=0
+Time: 1970 ns  Iteration: 0  Process: /project_tb/test_routine  File: C:/Users/marco/VivadoProjects/project_reti_logiche_final/project_reti_logiche_final.srcs/sim_1/new/project_tb_2324.vhd
+$finish called at time : 1970 ns : File "C:/Users/marco/VivadoProjects/project_reti_logiche_final/project_reti_logiche_final.srcs/sim_1/new/project_tb_2324.vhd" Line 180

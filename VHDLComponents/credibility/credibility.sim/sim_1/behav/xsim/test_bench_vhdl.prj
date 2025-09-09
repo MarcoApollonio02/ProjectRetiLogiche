@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../credibility.srcs/sources_1/new/CredibilityT.vhd" \
+"../../../../credibility.srcs/sources_1/new/FlipFlopT.vhd" \
+
+vhdl2008 xil_defaultlib  \
+"../../../../credibility.srcs/sources_1/new/test_bench.vhd" \
+
+# Do not sort compile order
+nosort

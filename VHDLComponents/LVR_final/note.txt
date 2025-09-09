@@ -1,0 +1,4 @@
+non servono 2 livelli di memorizzazione perchè l'uscita della RAM rimane stabile sul valore letto finchè non avviene una nuova lettura/scrittura.
+Il probelma di  non memorizzare si risolve leggendo la memoriae generando letturazero, se la lettura è valida il ciclo successivo si memorizza la parola.
+Questo cambiamento non cambia il numero di stati complessivi perchè esisteva già uno stato cuscinetto dopo una lettura valida dove veniva aumentato l'indirizzo.
+Si possono fare aumento indirizzo e salvataggio della lettura nello stesso ciclo a patto che il segnale mem_en sia basso.

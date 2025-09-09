@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2023.2.1 (64-bit)
+# SW Build 4081461 on Thu Dec 14 12:24:51 MST 2023
+# IP Build 4080415 on Thu Dec 14 21:01:57 MST 2023
+# SharedData Build 4077621 on Mon Dec 11 00:23:44 MST 2023
+# Start of session at: Fri Feb 16 11:50:29 2024
+# Process ID: 91544
+# Current directory: C:/Users/marco/VivadoProjects/CounterAdd_2/CounterAdd_2.runs/synth_1
+# Command line: vivado.exe -log CounterAdd.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source CounterAdd.tcl
+# Log file: C:/Users/marco/VivadoProjects/CounterAdd_2/CounterAdd_2.runs/synth_1/CounterAdd.vds
+# Journal file: C:/Users/marco/VivadoProjects/CounterAdd_2/CounterAdd_2.runs/synth_1\vivado.jou
+# Running On: DESKTOP-6G38AS2, OS: Windows, CPU Frequency: 3194 MHz, CPU Physical cores: 16, Host memory: 16388 MB
+#-----------------------------------------------------------
+source CounterAdd.tcl -notrace

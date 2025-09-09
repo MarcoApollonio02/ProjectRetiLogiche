@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "LVR_test_bench_behav" "xil_defaultlib.LVR_test_bench" -log "elaborate.log" 

@@ -1,0 +1,13 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/marco/VivadoProjects/project_reti_logiche_final/project_reti_logiche_final.sim/sim_1/synth/func/xsim/project_tb_func_synth.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'CounterAdd'
+INFO: [VRFC 10-3107] analyzing entity 'CounterK'
+INFO: [VRFC 10-3107] analyzing entity 'FlipFlopT'
+INFO: [VRFC 10-3107] analyzing entity 'FlipFlopT_0'
+INFO: [VRFC 10-3107] analyzing entity 'FlipFlopT_1'
+INFO: [VRFC 10-3107] analyzing entity 'FlipFlopT_2'
+INFO: [VRFC 10-3107] analyzing entity 'FlipFlopT_3'
+INFO: [VRFC 10-3107] analyzing entity 'LVR'
+INFO: [VRFC 10-3107] analyzing entity 'CredibilityT'
+INFO: [VRFC 10-3107] analyzing entity 'project_reti_logiche'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/marco/VivadoProjects/project_reti_logiche_final/project_reti_logiche_final.srcs/sim_1/new/project_tb_2324.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'project_tb'

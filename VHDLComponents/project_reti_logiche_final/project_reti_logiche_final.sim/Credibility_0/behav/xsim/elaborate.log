@@ -1,0 +1,26 @@
+Vivado Simulator v2023.2.1
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2023 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2023.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot project_tb_behav xil_defaultlib.project_tb -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling package std.standard
+Compiling package std.textio
+Compiling package ieee.std_logic_1164
+Compiling package ieee.numeric_std
+Compiling package ieee.std_logic_arith
+Compiling package ieee.std_logic_unsigned
+Compiling architecture counteradd_arch of entity xil_defaultlib.CounterAdd [counteradd_default]
+Compiling architecture counterk_arch of entity xil_defaultlib.CounterK [counterk_default]
+Compiling architecture zeroreading_arch of entity xil_defaultlib.ZeroReading [zeroreading_default]
+Compiling architecture lvr_arch of entity xil_defaultlib.LVR [lvr_default]
+Compiling architecture flipflopt_arch of entity xil_defaultlib.FlipFlopT [flipflopt_default]
+Compiling architecture credibilityt_arch of entity xil_defaultlib.CredibilityT [credibilityt_default]
+Compiling architecture mux_arch of entity xil_defaultlib.Mux [mux_default]
+Compiling architecture project_reti_logiche_arch of entity xil_defaultlib.project_reti_logiche [project_reti_logiche_default]
+Compiling architecture project_tb_arch of entity xil_defaultlib.project_tb
+Built simulation snapshot project_tb_behav

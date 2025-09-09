@@ -1,0 +1,9 @@
+# compile vhdl design source files
+vhdl2008 xil_defaultlib  \
+"../../../../CounterAdd_2.srcs/sources_1/new/CounterAdd.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../CounterAdd_2.srcs/sim_1/new/CounterAdd_TestBench.vhd" \
+
+# Do not sort compile order
+nosort
