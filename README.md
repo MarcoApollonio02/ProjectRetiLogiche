@@ -6,7 +6,7 @@
 
 ## Request and Explanation
 
-We were asked to implement a digital logic project for the course "Progetto di Reti Logiche" course. The main objective was to design, simulate, and verify a combinational/sequential circuit based on the provided specifications.
+We were asked to implement a digital logic project for the course "Progetto di Reti Logiche" course, academic year 2023-2024. The main objective was to design, simulate, and verify a combinational/sequential circuit based on the provided specifications.
 
 For more details, see the [`Request`](./Request) folder in this repository.
 
